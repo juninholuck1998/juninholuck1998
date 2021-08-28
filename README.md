@@ -2,7 +2,7 @@
 - 👀 I’m interested in development
 - 🌱 I’m currently learning programing
 - 💞️ I’m looking to collaborate on security information
-- 📫 How to reach me @franciscoluckjr
+- 📫 How to reach me @franciscolucjr
 
 <!---
 juninholuck1998/juninholuck1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
