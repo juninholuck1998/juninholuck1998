@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juninholuck1998
 - 👀 I’m interested in development
 - 🌱 I’m currently learning programing
-- 💞️ I’m looking to collaborate on security information
+- 💞️ I’m looking to collaborate on development web
 - 📫 How to reach me @franciscolucjr
 
 <!---
